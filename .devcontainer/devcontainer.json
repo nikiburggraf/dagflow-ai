@@ -14,7 +14,7 @@
         "reditorsupport.r"
       ],
       "settings": {
-        "terminal.integrated.defaultLocation": "editor"
+        "workbench.panel.opensMaximized": "always"
       }
     }
   },
