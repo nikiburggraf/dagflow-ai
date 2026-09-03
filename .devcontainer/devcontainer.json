@@ -12,7 +12,10 @@
     "vscode": {
       "extensions": [
         "reditorsupport.r"
-      ]
+      ],
+      "settings": {
+        "terminal.integrated.defaultLocation": "editor"
+      }
     }
   },
   "secrets": {
